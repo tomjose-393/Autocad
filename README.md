@@ -1,2 +1,2 @@
 # Autocad
-Autocad and python
+Autocad and python : AI
